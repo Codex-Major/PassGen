@@ -1,5 +1,6 @@
 # PassGen
 Small password generator written in python.
+Doesn't save your passwords. If you think I should add the ability to, please convey that to me.  
 
 # Usage
 Pretty simple to use, run the main.py and go to town!
